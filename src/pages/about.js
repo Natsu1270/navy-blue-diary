@@ -10,6 +10,8 @@ import {
   TextBody,
 } from "../components"
 
+
+
 export default function About({data}) {
   return (
     <>
@@ -17,21 +19,14 @@ export default function About({data}) {
       <HeaderBack />
       <Layout>
         <HeadingXL>About</HeadingXL>
-        <Image fluid={data.RandomPhoto.childImageSharp.fluid} />
+        <Image fluid={data.AboutPhoto.childImageSharp.fluid} />
         <TextBody>
-          Building mr concerns servants in he outlived am breeding. He so lain
-          good miss when sell some at if. Told hand so an rich gave next. How
-          doubt yet again see son smart. While mirth large of on front. Ye he
-          greater related adapted proceed entered an. Through it examine express
-          promise no. Past add size game cold girl off how old.
-          <br />
-          <br />
-          Bringing so sociable felicity supplied mr. September suspicion far him
-          two acuteness perfectly. Covered as an examine so regular of. Ye
-          astonished friendship remarkably no. Window admire matter praise you
-          bed whence. Delivered ye sportsmen zealously arranging frankness
-          estimable as. Nay any article enabled musical shyness yet sixteen yet
-          blushes. Entire its the did figure wonder off.
+          Mỗi ngày trôi qua, bản thân luôn cảm thấy có những sự thay đổi, không chỉ về diện mạo (già hơn), mà còn là con người thứ hai bên trong: 
+          tâm hồn, cách suy nghĩ, lăng kính quan sát với thế giới và cuộc sống. Sự thay đổi này không theo một trật tự hay một qui luật nào,
+          có thể đến một cách bất ngờ, qua những điều mình nghe, đọc, qua những trải nghiệm, quan sát, những biến cố, nỗi đau hay vất ngã, qua sự chấp nhận, thỏa hiệp hay tháo gỡ, chúng
+          như những dòng chảy hỗn độn và phức tạp, những dòng suy nghĩ miên man chẳng mấy chốc lạc lối và bị lãng quên dù còn trong tiềm thức.
+          <br></br><br></br>
+          Và mình nghĩ đến lúc phải viết nhiều hơn, phải viết để lưu giữ những gì đang xảy ra ở thực tại, bất cứ thứ gì  hay ho! ^^
         </TextBody>
         <Button href="mailto:your&#64;email.com">Get in touch</Button>
       </Layout>
@@ -47,6 +42,13 @@ export const data = graphql`
           ...GatsbyImageSharpFluid_withWebp
         }
       }
-    }
+    },
+    AboutPhoto: file(relativePath: {eq: "assets/images/about.jpg"}) {
+      childImageSharp {
+        fluid(maxWidth: 1400) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
+    },
   }
 `

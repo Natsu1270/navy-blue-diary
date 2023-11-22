@@ -18,19 +18,13 @@ const Container = styled.footer`
 export function Footer() {
   return (
     <Container>
+      
       <ButtonLink
-        href="https://mobile.twitter.com/lewislbr"
+        href="https://fb.com/natsu1270"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Twitter
-      </ButtonLink>
-      <ButtonLink
-        href="https://github.com/lewislbr/lewis-gatsby-starter-blog"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Github
+        Facebook
       </ButtonLink>
     </Container>
   )
