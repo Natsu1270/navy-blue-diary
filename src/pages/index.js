@@ -51,7 +51,7 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>His favorite shade is Navy Blue</HeadingXL>
+          <HeadingXL>"The wind rises, we must try to live"</HeadingXL>
           <TextHome>
             Welcome to my blog, stranger!
           </TextHome>
