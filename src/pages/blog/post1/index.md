@@ -27,6 +27,8 @@ Phải chăng đó là những điều có ý nghĩa thực sự đối với Ma
 
 *"I'm still here"*, - Lucas nói với Max.
 
-Chính những điều này sẽ rọi 1 tia sáng len lỏi vào hố đen bóng tối kia, tạo nên một sức mạnh tác động tới nội tại cho họ để có thể tự giải thoát bản thân và đi tìm ý nghĩa của cuộc sống.
+Chính những điều này sẽ chiếu rọi một tia sáng len lỏi vào hố đen bóng tối kia, tạo nên một sức mạnh tác động tới nội tại, khiến họ để có thể tự giải thoát bản thân và đi tìm ý nghĩa của cuộc sống.
+
+Cuộc sống này vốn dĩ không có ý nghĩa, nhưng sự tồn tại của mỗi người chính là ý nghĩa của nó, chúng ta sống để tự tạo nên ý nghĩa cho bản thân và những người xung quanh!
 
 ![photo](live.jpg)
