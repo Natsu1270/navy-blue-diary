@@ -1,5 +1,5 @@
 ---
-title: "Phân tích một phân cảnh huyền thoại trong Stranger Things mùa 4"
+title: "Phân tích một phân cảnh nổi tiếng trong Stranger Things mùa 4"
 date: "2023-11-23"
 ---
 
