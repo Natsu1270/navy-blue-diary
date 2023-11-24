@@ -1,5 +1,5 @@
 ---
-title: "Phân tích một phân cảnh nổi tiếng trong Stranger Things mùa 4"
+title: "Một phân cảnh nổi tiếng trong Stranger Things mùa 4"
 date: "2023-11-23"
 ---
 
@@ -23,7 +23,7 @@ Nói về phạm trù tư tưởng như chủ nghĩa hư vô thì không có đ�
 
 **Vậy điều gì đã giúp Max chiến thắng được Vecna?**
 
-Phải chăng đó là những điều có ý nghĩa thực sự đối với Max, là những người bạn, với sự chân thành, quan tâm, đồng cảm và thấu hiểu. Chính sự tồn tại của Max cũng là ý nghĩa to lớn đối với họ.
+Chính là những điều có ý nghĩa thực sự đối với Max, là những người bạn, với sự chân thành, quan tâm, đồng cảm và thấu hiểu. Chính sự tồn tại của Max cũng là ý nghĩa to lớn đối với họ.
 
 *"I'm still here"*, - Lucas nói với Max.
 

@@ -26,7 +26,8 @@ export default function About({data}) {
           có thể đến một cách bất ngờ, qua những điều mình nghe, đọc, qua những trải nghiệm, quan sát, những biến cố, nỗi đau hay vất ngã, qua sự chấp nhận, thỏa hiệp hay tháo gỡ, chúng
           như những dòng chảy hỗn độn và phức tạp, những dòng suy nghĩ miên man chẳng mấy chốc lạc lối và bị lãng quên dù còn trong tiềm thức.
           <br></br><br></br>
-          Và mình nghĩ đến lúc phải viết nhiều hơn, phải viết để lưu giữ những gì đang xảy ra ở thực tại, bất cứ thứ gì  hay ho! ^^
+          Và mình nghĩ đến lúc phải viết nhiều hơn, phải viết để lưu giữ những gì đang xảy ra ở thực tại, bất cứ thứ gì hay ho! ^^
+          - Duy Hùng 
         </TextBody>
         <Button href="mailto:your&#64;email.com">Get in touch</Button>
       </Layout>
