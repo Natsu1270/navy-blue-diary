@@ -32,7 +32,6 @@
     "gatsby-remark-audio": "^1.0.2",
     "gatsby-remark-embed-video": "^3.2.1",
     "gatsby-remark-embed-youtube": "^0.0.7",
-    "gatsby-remark-embedder": "^7.0.0",
     "gatsby-remark-images": "^3.7.1",
     "gatsby-source-filesystem": "^2.7.0",
     "gatsby-transformer-remark": "^2.12.0",
