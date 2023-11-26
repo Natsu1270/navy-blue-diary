@@ -32,7 +32,7 @@ Sau lần đó, Jo chuyển tới New York để dạy học, bảy năm trôi q
 
 >*"Women, they have minds, and they have souls, as well as just hearts. And they’ve got ambition, and they’ve got talent, as well as just beauty. I’m so sick of people saying that love is all a woman is fit for. I'm so sick of this, but I'm so lonely"*
 
-Cho dù bạn có cố gắng, gồng mình và mạnh mẽ đến mấy thì bạn sẽ luôn cảm thấy cô đơn, càng lớn lên và già đi chúng ta sẽ càng thấy cô độc giống như Jo, thừa nhận sự cô đơn của cô là điều khó khăn nhất mà cô từng làm. Khó hơn việc từ chối Laurie, khó hơn việc đánh mất bản thảo, khó hơn việc rời bỏ gia đình để theo đuổi sự nghiệp, khó hơn tất cả những điều đó.
+Cho dù bạn có cố gắng, gồng mình và mạnh mẽ đến mấy thì bạn sẽ luôn cảm thấy cô đơn, càng lớn lên và già đi chúng ta sẽ càng thấy cô độc giống như Jo, thừa nhận sự cô đơn của mình có lẽ là điều khó khăn nhất mà Jo từng làm. Khó hơn việc từ chối Laurie, khó hơn việc đánh mất bản thảo, khó hơn việc rời bỏ gia đình để theo đuổi sự nghiệp, khó hơn tất cả những điều đó.
 
 Cô nói với mẹ rằng nếu Laurie đến với cô thêm một lần nữa thì lần này cô sẽ đồng ý. Tuy nhiên, sau bảy năm qua, Laurie cũng đã move on, và đã yêu Amy - em gái của Jo, người mà thực sự yêu Laurie, mặc dù tình yêu của Laurie dành cho Jo vẫn mãi còn đó, nhưng nó rất khác so với tình yêu dành cho Amy.
 
