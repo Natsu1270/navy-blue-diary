@@ -27,7 +27,7 @@ export default function About({data}) {
           như những dòng chảy hỗn độn và phức tạp, những dòng suy nghĩ miên man chẳng mấy chốc lạc lối và bị lãng quên dù còn trong tiềm thức.
           <br></br><br></br>
           Và mình nghĩ đến lúc phải viết nhiều hơn, phải viết để lưu giữ những gì đang xảy ra ở thực tại, bất cứ thứ gì hay ho! ^^
-          Mình hy vọng những bài viết trong blog này có thể tác động tích cực đến bạn, nhiều hay ít.
+          Mình hy vọng những bài viết trong blog này có thể tác động tích cực đến bạn, dù nhiều hay ít.
           - Duy Hùng 
         </TextBody>
         <Button href="mailto:your&#64;hungduy1270@gmail.com">Get in touch</Button>

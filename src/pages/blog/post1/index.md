@@ -10,12 +10,12 @@ Trong thời gian chờ đợi final season của TV series Stranger Things, mì
 
 ### Phân tích
 
-Trong phân cảnh này, Max, một trong những nhân vật chính trong series, chịu tổn thương sâu sắc về mặt tinh thần sau cái chết của anh trai Billy, dẫn tới hình thành hội chứng PTSD, trầm cảm, gần như đã bị Vecna (phản diện chính trong series) chiếm đoạn phần nguồn sống còn lại bên trong.
+Trong phân cảnh này, Max, một trong những nhân vật chính, chịu tổn thương sâu sắc về mặt tinh thần sau cái chết của anh trai Billy, dẫn tới hình thành hội chứng PTSD, trầm cảm, gần như đã bị Vecna (phản diện chính trong series) thao túng, chiếm đoạn phần nguồn sống còn lại bên trong.
 Hình ảnh Max nổi trên không trung, cổ ngước lên và hai bàn tay chỉ xuống đất, là ẩn dụ cho việc 1 người treo cổ tự vẫn bằng dây thừng, tự chấm dứt cuộc sống để giải thoát khỏi đau khổ và sự nặng nề vô hình to lớn bên trong. Người ta sẽ thắc mắc tại sao phải sử dụng hình thức cực đoan nhất này, nhưng nếu có thể trải nghiệm cảm giác của những con người đó, chúng ta mới thực sự thấu hiểu được nỗi sầu khổ và vô vọng kéo dài, khi bóng đen đó xâm chiếm toàn bộ bên trong, dường như đó là lối thoát duy nhất.
 
 ![photo](vecna.png)
 
-Nói một chút về phản diện chính của series, Vecna là đại diện cho bóng tối bên trong mỗi người, cũng như là một biểu trưng cho chủ nghĩa hư vô (*Nihilism*), người theo chủ nghĩa hư vô tin rằng cuộc sống không có ý nghĩa và giá trị nội tại, từ đó sự tồn tại của con người thật nhỏ bé và không có mục đích, luôn nhìn về những mặt tiêu cực trong cuộc sống hiện sinh, có thể thấy rõ được điều đó qua đoạn monologue của nhân vật này:
+Nói một chút về phản diện Vecna, hắn là đại diện cho bóng tối bên trong mỗi người, cũng như là một biểu trưng cho chủ nghĩa hư vô (*Nihilism*), người theo chủ nghĩa hư vô tin rằng cuộc sống không có ý nghĩa và giá trị nội tại, từ đó sự tồn tại của con người thật nhỏ bé và không có mục đích, luôn nhìn về những mặt tiêu cực trong cuộc sống hiện sinh, có thể thấy rõ được điều đó qua đoạn monologue của nhân vật này:
 
 > *"... Where others saw order, I saw a straitjacket. A cruel, oppressive world dictated by made-up rules. Seconds, minutes, hours, days, weeks, months, years, decades. Each life a faded, lesser copy of the one before. Wake up, eat, work, sleep, reproduce, and die. Everyone is just waiting. Waiting for it all to be over. All while performing in a silly, terrible play, day after day. I could not do that. I could not close off my mind and join in the madness..."*
 
@@ -27,7 +27,7 @@ Chính là những điều có ý nghĩa thực sự đối với Max, là nhữ
 
 *"I'm still here"*, - Lucas nói với Max.
 
-Chính những điều này sẽ chiếu rọi một tia sáng len lỏi vào hố đen bóng tối kia, tạo nên một sức mạnh tác động tới nội tại, khiến họ để có thể tự giải thoát bản thân và đi tìm ý nghĩa của cuộc sống.
+Chúng sẽ chiếu rọi một tia sáng len lỏi vào hố đen bóng tối kia, tạo nên một sức mạnh tác động tới nội tại, khiến họ để có thể tự giải thoát bản thân và đi tìm ý nghĩa của cuộc sống.
 
 Cuộc sống này vốn dĩ không có ý nghĩa, nhưng sự tồn tại của mỗi người chính là ý nghĩa của nó, chúng ta sống để tự tạo nên ý nghĩa cho bản thân và những người xung quanh!
 
