@@ -21,16 +21,11 @@ export default function About({data}) {
         <HeadingXL>About</HeadingXL>
         <Image fluid={data.AboutPhoto.childImageSharp.fluid} />
         <TextBody>
-          Mỗi ngày trôi qua, bản thân luôn cảm thấy có những sự thay đổi, không chỉ về diện mạo (già hơn), mà còn là con người thứ hai bên trong: 
-          tâm hồn, cách suy nghĩ, lăng kính quan sát với thế giới và cuộc sống. Sự thay đổi này không theo một trật tự hay một qui luật nào,
-          có thể đến một cách bất ngờ, qua những điều mình nghe, đọc, qua những trải nghiệm, quan sát, những biến cố, nỗi đau hay vất ngã, qua sự chấp nhận, thỏa hiệp hay tháo gỡ, chúng
-          như những dòng chảy hỗn độn và phức tạp, những dòng suy nghĩ miên man chẳng mấy chốc lạc lối và bị lãng quên dù còn trong tiềm thức.
+          “I wanna be defined by the things that I love, not the things I hate, not the things I'm afraid of, or the things that haunt me in the middle of the night, I just think that you are what you love”
           <br></br><br></br>
-          Và mình nghĩ đến lúc phải viết nhiều hơn, phải viết để lưu giữ những gì đang xảy ra ở thực tại, bất cứ thứ gì hay ho! ^^
-          Mình hy vọng những bài viết trong blog này có thể tác động tích cực đến bạn, dù nhiều hay ít.
-          - Duy Hùng 
+          Hi!!! Welcome to my blog, mình viết về những suy nghĩ, những điều mình quan sát và cảm nhận với thế giới xung quanh.
         </TextBody>
-        <Button href="mailto:your&#64;hungduy1270@gmail.com">Get in touch</Button>
+        <Button href="mailto:hungduy1270@gmail.com">Get in touch</Button>
       </Layout>
     </>
   )
