@@ -7,7 +7,7 @@ date: "2023-11-27"
 
 **[SPOLER ALERT]**<br />
 Mới đây mình mới xem một bộ phim khá hay có tên là Little Women (2019) được chuyển thể từ tiểu thuyết cùng tên của nhà văn người Mỹ Louisa May Alcott. <br />
-Little Women kể về cuộc sống gia đình của bốn chị em nhà March tại một thị trấn nhỏ của New England. Meg, cô chị cả xinh đẹp và mơ ước trở thành một quý bà. Jo, với tuổi mười lăm, lóng ngóng và không thích bị gò bó trong những nghi thức do xã hội ấn định, cô có tham vọng trở thành văn sĩ. Beth là một cô bé mười ba tuổi, người có tính cách ổn hòa nhất, thích âm nhạc, sau đó chết do sốt ban đỏ. Và Amy, một cô gái tóc vàng xinh đẹp, mười hai tuổi, có phần bưởng bỉnh và trẻ con. Theo dõi bộ phim chúng ta có thể cảm nhận được cuộc sống thường ngày mà một gia đình thuộc tầng lớp trung lưu, đồng thời đồng cảm với những khó khăn, vấn đề mà những người con gái trong gia đình đó phải đối mặt.
+Little Women kể về cuộc sống gia đình của bốn chị em nhà March tại một thị trấn nhỏ của New England. Meg, cô chị cả xinh đẹp và mơ ước trở thành một quý bà. Jo, tuổi mười lăm, lóng ngóng và không thích bị gò bó trong những nghi thức do xã hội ấn định, cô có tham vọng trở thành văn sĩ. Beth là một cô bé mười ba tuổi, người có tính cách ổn hòa nhất, thích âm nhạc, sau đó chết do sốt ban đỏ. Và Amy, một cô gái tóc vàng xinh đẹp, mười hai tuổi, có phần bưởng bỉnh và khó chịu. Theo dõi bộ phim chúng ta có thể cảm nhận được cuộc sống thường ngày mà một gia đình thuộc tầng lớp trung lưu, đồng thời đồng cảm với những khó khăn, vấn đề mà những người con gái trong gia đình đó phải đối mặt.
 
 ![photo](lw.jpg)
 *Meg-Amy-Jo-Beth*
