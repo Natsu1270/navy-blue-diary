@@ -5,7 +5,7 @@ date: "2023-11-25"
 
 `audio: https://highlifeng.com.ng/swahilisongs/wp-content/uploads/2023/06/Lady_Gaga_-_Shallow.mp3`
 
-Trong một cuộc nói chuyện, Lady Gaga từng nói về bài hát Shallow (một sound track trong phim điện ảnh A Start Is Born 2018, giành giải Oscar lần 91 ở hạng mục nhạc phim xuất sắc nhất):
+Trong một cuộc nói chuyện, Lady Gaga từng nói về bài hát Shallow (một sound track trong phim điện ảnh A Star Is Born 2018, giành giải Oscar lần 91 ở hạng mục nhạc phim xuất sắc nhất):
 >*"Well, so "Shallow" a song that is very dear to my heart, I wrote with Mark Ronson, Anthony Rossomando and Andrew Wyatt, and I'm also a producer on that song, and really loved working on the production.* ***This song is very special, this song is two people talking to each other, and they're listening, they're connecting, and they're talking about how... in this modern world and in the state that they are in their lives, that they want more, they want something deeper, they want something more connected..."***
 
 Trong bài hát này, mình đặc biệt thích đoạn mở đầu cũng là một đoạn hội thoại, lời tâm sự giữa Ally và Jack với nhau:
