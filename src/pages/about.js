@@ -22,8 +22,6 @@ export default function About({data}) {
         <Image fluid={data.AboutPhoto.childImageSharp.fluid} />
         <TextBody>
           “I wanna be defined by the things that I love, not the things I hate, not the things I'm afraid of, or the things that haunt me in the middle of the night, I just think that you are what you love”
-          <br></br><br></br>
-          Hi!!! Welcome to my blog, mình viết về những suy nghĩ, những điều mình quan sát và cảm nhận với thế giới xung quanh.
         </TextBody>
         <Button href="mailto:hungduy1270@gmail.com">Get in touch</Button>
       </Layout>
