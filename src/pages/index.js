@@ -51,7 +51,7 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>"The wind rises, we must try to live"</HeadingXL>
+          <HeadingXL>"Le vent se lève! . . . Il faut tenter de vivre!"</HeadingXL>
           <TextHome>
             Welcome to my blog, stranger!
           </TextHome>
